@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Jekyll!"
+title: "Welcome to luluuuu!"
 date: 2023-03-09T15:34:30-04:00
 categories:
   - blog
